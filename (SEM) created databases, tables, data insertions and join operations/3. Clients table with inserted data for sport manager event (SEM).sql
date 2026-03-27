@@ -1,0 +1,5 @@
+SELECT TOP (1000) [client_id]
+      ,[client_name]
+      ,[email]
+      ,[phone]
+  FROM [sporteventmanager].[dbo].[clients]

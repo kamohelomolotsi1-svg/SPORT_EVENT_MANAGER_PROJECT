@@ -1,0 +1,5 @@
+SELECT TOP (1000) [venue_id]
+      ,[venue_name]
+      ,[venue_location]
+      ,[capacity]
+  FROM [sporteventmanager].[dbo].[venues]

@@ -1,0 +1,6 @@
+SELECT TOP (1000) [event_id]
+      ,[event_name]
+      ,[event_date]
+      ,[client_id]
+      ,[venue_id]
+  FROM [sporteventmanager].[dbo].[events]
